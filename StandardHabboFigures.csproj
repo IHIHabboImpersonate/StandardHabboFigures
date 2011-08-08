@@ -43,7 +43,6 @@
     <Compile Include="EyeAccessory\AnaglyphGlasses.cs" />
     <Compile Include="EyeAccessory\EyePatch.cs" />
     <Compile Include="EyeAccessory\FutureStyleGlasses.cs" />
-    <Compile Include="EyeAccessory\GreenAndRedGlasses.cs" />
     <Compile Include="EyeAccessory\NormalGlasses.cs" />
     <Compile Include="EyeAccessory\SmallGlasses.cs" />
     <Compile Include="EyeAccessory\SunGlasses.cs" />
