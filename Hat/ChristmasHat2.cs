@@ -1,6 +1,6 @@
-namespace IHI.Server.Habbos.Figure.Hat
+namespace IHI.Server.Habbos.Figure.Parts
 {
-    public class Hat : FigureHat
+    public class ChristmasHat2 : Hat
     {
         public override ushort GetModelID()
         {

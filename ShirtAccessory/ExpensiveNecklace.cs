@@ -1,6 +1,6 @@
-namespace IHI.Server.Habbos.Figure.ShirtAccessory
+namespace IHI.Server.Habbos.Figure.Parts
 {
-    public class ShirtAccessory : FigureShirtAccessory
+    public class ExpensiveNecklace : ShirtAccessory
     {
         public override ushort GetModelID()
         {

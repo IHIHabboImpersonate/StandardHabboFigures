@@ -1,4 +1,4 @@
-namespace IHI.Server.Habbos.Figure.EyeAccessory
+namespace IHI.Server.Habbos.Figure.Parts
 {
     public class GreenAndRedGlasses : EyeAccessory
     {

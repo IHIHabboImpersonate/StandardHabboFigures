@@ -1,6 +1,6 @@
-namespace IHI.Server.Habbos.Figure.HeadAccessory
+namespace IHI.Server.Habbos.Figure.Parts
 {
-    public class HeadAccessory : FigureHeadAccessory
+    public class Flower : HeadAccessory
     {
         public override ushort GetModelID()
         {

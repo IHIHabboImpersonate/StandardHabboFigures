@@ -1,10 +1,10 @@
 namespace IHI.Server.Habbos.Figure.Parts
 {
-    public class TiedScarf : ShirtAccessory
+    public class SmartShoes : Shoes
     {
         public override ushort GetModelID()
         {
-            return 1805;
+            return 735;
         }
     }
 }

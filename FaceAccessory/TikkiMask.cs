@@ -1,6 +1,6 @@
-namespace IHI.Server.Habbos.Figure.FaceAccessory
+namespace IHI.Server.Habbos.Figure.Parts
 {
-    public class FaceAccessory : FigureFaceAccessory
+    public class TikkiMask : FaceAccessory
     {
         public override ushort GetModelID()
         {

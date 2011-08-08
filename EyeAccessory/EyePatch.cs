@@ -1,6 +1,6 @@
-namespace IHI.Server.Habbos.Figure.EyeAccessory
+namespace IHI.Server.Habbos.Figure.Parts
 {
-    public class EyeAccessory : FigureEyeAccessory
+    public class EyePatch : EyeAccessory
     {
         public override ushort GetModelID()
         {

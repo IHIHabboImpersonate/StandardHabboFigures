@@ -1,6 +1,6 @@
-namespace IHI.Server.Habbos.Figure.WaistAccessory
+namespace IHI.Server.Habbos.Figure.Parts
 {
-    public class WaistAccessory : FigureWaistAccessory
+    public class BlackDesignerBelt : WaistAccessory
     {
         public override ushort GetModelID()
         {
