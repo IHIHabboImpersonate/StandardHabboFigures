@@ -1,6 +1,6 @@
 namespace IHI.Server.Habbos.Figure.Parts
 {
-    public class LongSleeveButtonAndLaceStyleCoat_Female : Shirt
+    public class LongSleeveButtonAndLaceStyleCoatFemale : Shirt
     {
         public override ushort GetModelID()
         {

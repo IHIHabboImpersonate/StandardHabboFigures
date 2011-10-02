@@ -4,7 +4,9 @@ namespace IHI.Server.Habbos.Figure.Parts
     {
         public override ushort GetModelID()
         {
-            return 906;
+            // TODO: Confirm Model IDs
+            //return 695;
+            return 305;
         }
     }
 }

@@ -1,6 +1,6 @@
 namespace IHI.Server.Habbos.Figure.Parts
 {
-    public class LongSkirt_Female : Legs
+    public class LongSkirtFemale : Legs
     {
         public override ushort GetModelID()
         {
