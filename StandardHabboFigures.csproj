@@ -8,7 +8,7 @@
     <ProjectGuid>{1759BA1B-5260-4EED-88D0-4D15728E613C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>IHI.Server.Plugins.Zak.StandardHabboFigures</RootNamespace>
+    <RootNamespace>IHI.Server.Plugins.Cecer1.StandardHabboFigures</RootNamespace>
     <AssemblyName>StandardHabboFigures</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
